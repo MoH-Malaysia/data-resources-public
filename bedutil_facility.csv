@@ -1,144 +1,144 @@
 hospital,state,beds_nonicu,util_nonicu,beds_icu,util_icu,vent,util_vent
-Hospital Sultanah Nora Ismail,Johor,592.0,82.9391891891892,18.0,55.55555555555556,51.0,50.98039215686274
-Hospital Sultanah Aminah,Johor,971.0,103.08959835221421,28.0,103.57142857142858,75.0,66.66666666666666
-Hospital Permai,Johor,1132.0,53.18021201413428,0.0,,0.0,
-Hospital Sultan Ismail Johor Bahru,Johor,653.0,102.45022970903521,24.0,79.16666666666666,45.0,24.444444444444443
-Hospital Enche' Besar Hajjah Khalsom,Johor,368.0,74.18478260869566,14.0,71.42857142857143,45.0,37.77777777777778
-Hospital Kota Tinggi,Johor,158.0,48.10126582278481,0.0,,0.0,
-Hospital Mersing,Johor,70.0,45.714285714285715,0.0,,0.0,
-Hospital Pakar Sultanah Fatimah,Johor,544.0,61.39705882352941,16.0,18.75,39.0,10.256410256410255
-Hospital Pontian,Johor,120.0,52.5,0.0,,4.0,0.0
-Hospital Segamat,Johor,302.0,68.54304635761589,12.0,33.33333333333333,29.0,17.24137931034483
-Hospital Temenggong Seri Maharaja Tun Ibrahim,Johor,93.0,81.72043010752688,0.0,,0.0,
-Hospital Tangkak,Johor,69.0,24.637681159420293,0.0,,0.0,
-Hospital Baling,Kedah,115.0,83.47826086956522,0.0,,0.0,
-Hospital Sultanah Bahiyah,Kedah,1082.0,78.65064695009242,26.0,84.61538461538461,81.0,50.617283950617285
-Hospital Sultan Abdul Halim,Kedah,668.0,0.0,28.0,64.28571428571429,60.0,58.333333333333336
-Hospital Jitra,Kedah,91.0,63.73626373626373,0.0,,0.0,
-Hospital Kulim,Kedah,305.0,101.31147540983608,15.0,73.33333333333333,36.0,33.33333333333333
-Hospital Langkawi,Kedah,154.0,74.02597402597402,9.0,44.44444444444444,14.0,42.857142857142854
-Hospital Kuala Nerang,Kedah,80.0,57.49999999999999,0.0,,0.0,
-Hospital Sik,Kedah,93.0,45.16129032258064,0.0,,0.0,
-Hospital Yan,Kedah,89.0,58.42696629213483,0.0,,0.0,
-Hospital Gua Musang,Kelantan,90.0,48.888888888888886,0.0,,0.0,
-Hospital Jeli,Kelantan,80.0,46.25,0.0,,0.0,
+Hospital Sultanah Nora Ismail,Johor,592.0,87.83783783783784,18.0,50.0,51.0,49.01960784313725
+Hospital Sultanah Aminah,Johor,971.0,109.57775489186406,28.0,100.0,75.0,69.33333333333334
+Hospital Permai,Johor,1132.0,53.621908127208485,0.0,,0.0,
+Hospital Sultan Ismail Johor Bahru,Johor,653.0,103.06278713629402,24.0,79.16666666666666,45.0,13.333333333333334
+Hospital Enche' Besar Hajjah Khalsom,Johor,368.0,79.34782608695652,14.0,71.42857142857143,45.0,31.11111111111111
+Hospital Kota Tinggi,Johor,158.0,43.037974683544306,0.0,,0.0,
+Hospital Mersing,Johor,70.0,55.714285714285715,0.0,,0.0,
+Hospital Pakar Sultanah Fatimah,Johor,544.0,66.72794117647058,16.0,31.25,39.0,17.94871794871795
+Hospital Pontian,Johor,120.0,63.33333333333333,0.0,,4.0,0.0
+Hospital Segamat,Johor,302.0,70.86092715231787,12.0,33.33333333333333,29.0,27.586206896551722
+Hospital Temenggong Seri Maharaja Tun Ibrahim,Johor,93.0,80.64516129032258,0.0,,0.0,
+Hospital Tangkak,Johor,69.0,23.18840579710145,0.0,,0.0,
+Hospital Baling,Kedah,115.0,84.34782608695653,0.0,,0.0,
+Hospital Sultanah Bahiyah,Kedah,1082.0,82.80961182994456,26.0,73.07692307692307,81.0,51.85185185185185
+Hospital Sultan Abdul Halim,Kedah,668.0,90.5688622754491,28.0,64.28571428571429,60.0,70.0
+Hospital Jitra,Kedah,91.0,61.53846153846154,0.0,,0.0,
+Hospital Kulim,Kedah,305.0,103.93442622950819,15.0,60.0,36.0,30.555555555555557
+Hospital Langkawi,Kedah,154.0,79.87012987012987,9.0,44.44444444444444,14.0,42.857142857142854
+Hospital Kuala Nerang,Kedah,80.0,62.5,0.0,,0.0,
+Hospital Sik,Kedah,93.0,52.68817204301075,0.0,,0.0,
+Hospital Yan,Kedah,89.0,51.68539325842697,0.0,,0.0,
+Hospital Gua Musang,Kelantan,90.0,57.77777777777777,0.0,,0.0,
+Hospital Jeli,Kelantan,80.0,47.5,0.0,,0.0,
 Hospital Sultan Ismail Petra,Kelantan,,,,,,
-Hospital Machang,Kelantan,90.0,61.111111111111114,0.0,,0.0,
-Hospital Pasir Mas,Kelantan,120.0,99.16666666666667,0.0,,0.0,
-Hospital Tanah Merah,Kelantan,144.0,87.5,5.0,100.0,13.0,61.53846153846154
-Hospital Tumpat,Kelantan,119.0,58.82352941176471,0.0,,0.0,
-Hospital Alor Gajah,Melaka,100.0,85.0,6.0,33.33333333333333,10.0,20.0
-Hospital Jasin,Melaka,97.0,58.76288659793815,6.0,16.666666666666664,16.0,12.5
-Hospital Melaka,Melaka,1080.0,78.98148148148148,44.0,90.9090909090909,95.0,41.05263157894737
-Hospital Jelebu,Negeri Sembilan,117.0,25.64102564102564,0.0,,0.0,
-Hospital Jempol,Negeri Sembilan,142.0,38.732394366197184,10.0,0.0,4.0,0.0
-Hospital Tuanku Ampuan Najihah,Negeri Sembilan,299.0,62.54180602006689,15.0,0.0,27.0,0.0
-Hospital Port Dickson,Negeri Sembilan,,,,,,
+Hospital Machang,Kelantan,90.0,73.33333333333333,0.0,,0.0,
+Hospital Pasir Mas,Kelantan,120.0,90.0,0.0,,0.0,
+Hospital Tanah Merah,Kelantan,144.0,90.97222222222221,5.0,100.0,13.0,69.23076923076923
+Hospital Tumpat,Kelantan,119.0,64.70588235294117,0.0,,0.0,
+Hospital Alor Gajah,Melaka,100.0,85.0,6.0,50.0,10.0,30.0
+Hospital Jasin,Melaka,97.0,56.70103092783505,6.0,50.0,16.0,12.5
+Hospital Melaka,Melaka,1080.0,80.64814814814815,44.0,88.63636363636364,95.0,45.26315789473684
+Hospital Jelebu,Negeri Sembilan,117.0,29.914529914529915,0.0,,0.0,
+Hospital Jempol,Negeri Sembilan,142.0,42.95774647887324,10.0,0.0,4.0,0.0
+Hospital Tuanku Ampuan Najihah,Negeri Sembilan,299.0,68.56187290969899,15.0,0.0,27.0,0.0
+Hospital Port Dickson,Negeri Sembilan,-6.0,-1733.3333333333333,6.0,0.0,8.0,0.0
 Hospital Rembau,Negeri Sembilan,,,,,,
-Hospital Tuanku Ja'afar,Negeri Sembilan,1094.0,66.63619744058501,49.0,44.89795918367347,121.0,14.049586776859504
-Hospital Tampin,Negeri Sembilan,100.0,36.0,16.0,12.5,12.0,16.666666666666664
-Hospital Bentong,Pahang,110.0,53.63636363636364,0.0,,0.0,
-Hospital Bera,Pahang,,,,,,
+Hospital Tuanku Ja'afar,Negeri Sembilan,1113.0,67.65498652291106,30.0,16.666666666666664,121.0,15.702479338842975
+Hospital Tampin,Negeri Sembilan,100.0,42.0,16.0,0.0,12.0,16.666666666666664
+Hospital Bentong,Pahang,110.0,60.909090909090914,0.0,,0.0,
+Hospital Bera,Pahang,40.0,20.0,0.0,,0.0,
 Hospital Jerantut,Pahang,77.0,64.93506493506493,0.0,,0.0,
-Hospital Kuala Lipis,Pahang,158.0,70.88607594936708,10.0,70.0,21.0,28.57142857142857
-Hospital Jengka,Pahang,70.0,44.285714285714285,0.0,,0.0,
-Hospital Pekan,Pahang,106.0,66.98113207547169,4.0,0.0,7.0,0.0
-Hospital Raub,Pahang,89.0,33.70786516853933,0.0,,0.0,
+Hospital Kuala Lipis,Pahang,162.0,68.51851851851852,6.0,66.66666666666666,21.0,28.57142857142857
+Hospital Jengka,Pahang,70.0,55.714285714285715,0.0,,0.0,
+Hospital Pekan,Pahang,106.0,79.24528301886792,4.0,50.0,7.0,0.0
+Hospital Raub,Pahang,89.0,39.325842696629216,0.0,,0.0,
 Hospital Muadzam Shah,Pahang,49.0,46.93877551020408,0.0,,0.0,
-Hospital Rompin,Pahang,,,,,,
+Hospital Rompin,Pahang,60.0,40.0,0.0,,2.0,0.0
 Hospital Balik Pulau,Pulau Pinang,,,,,,
-Hospital Sungai Bakap,Pulau Pinang,,,,,,
-Hospital Bukit Mertajam,Pulau Pinang,235.0,74.46808510638297,7.0,100.0,26.0,42.30769230769231
-Hospital Seberang Jaya,Pulau Pinang,400.0,98.25,13.0,100.0,35.0,65.71428571428571
-Hospital Kepala Batas,Pulau Pinang,100.0,115.99999999999999,34.0,17.647058823529413,52.0,17.307692307692307
-Hospital Pulau Pinang,Pulau Pinang,1137.0,58.927000879507474,26.0,88.46153846153845,89.0,31.46067415730337
-Hospital Slim River,Perak,157.0,61.146496815286625,13.0,23.076923076923077,12.0,25.0
-Hospital Tapah,Perak,100.0,33.0,0.0,,0.0,
-Hospital Teluk Intan,Perak,532.0,59.77443609022557,16.0,31.25,39.0,28.205128205128204
-Hospital Gerik,Perak,75.0,49.333333333333336,0.0,,0.0,
-Hospital Parit Buntar,Perak,100.0,49.0,0.0,,0.0,
-Hospital  Raja Permaisuri Bainun,Perak,1064.0,71.80451127819549,33.0,66.66666666666666,86.0,65.11627906976744
-Hospital Batu Gajah,Perak,148.0,37.16216216216216,0.0,,0.0,
-Hospital Bahagia Ulu Kinta,Perak,1800.0,56.388888888888886,0.0,,0.0,
-Hospital Kuala Kangsar,Perak,136.0,69.11764705882352,0.0,,0.0,
-Hospital Sungai Siput,Perak,93.0,51.61290322580645,0.0,,0.0,
-Hospital Selama,Perak,72.0,36.11111111111111,0.0,,0.0,
-Hospital Taiping,Perak,583.0,82.67581475128645,25.0,80.0,45.0,82.22222222222221
-Hospital Seri Manjung,Perak,297.0,96.29629629629629,8.0,62.5,19.0,26.31578947368421
-Hospital Changkat Melintang,Perak,50.0,64.0,0.0,,0.0,
-Hospital Kampar,Perak,68.0,64.70588235294117,0.0,,0.0,
-Hospital Tuanku Fauziah,Perlis,485.0,81.64948453608247,19.0,57.89473684210527,29.0,20.689655172413794
-Hospital Selayang,Selangor,1023.0,70.38123167155426,29.0,65.51724137931035,100.0,30.0
-Hospital Sungai Buloh,Selangor,729.0,64.4718792866941,42.0,78.57142857142857,121.0,31.40495867768595
-Pusat Kawalan Kusta Negara,Selangor,244.0,39.34426229508197,0.0,,0.0,
+Hospital Sungai Bakap,Pulau Pinang,105.0,70.47619047619048,0.0,,0.0,
+Hospital Bukit Mertajam,Pulau Pinang,235.0,76.59574468085107,7.0,100.0,26.0,34.61538461538461
+Hospital Seberang Jaya,Pulau Pinang,400.0,101.75,13.0,100.0,35.0,65.71428571428571
+Hospital Kepala Batas,Pulau Pinang,100.0,115.99999999999999,34.0,8.823529411764707,52.0,15.384615384615385
+Hospital Pulau Pinang,Pulau Pinang,1137.0,61.74142480211082,26.0,96.15384615384616,89.0,31.46067415730337
+Hospital Slim River,Perak,157.0,65.60509554140127,13.0,15.384615384615385,12.0,16.666666666666664
+Hospital Tapah,Perak,100.0,28.999999999999996,0.0,,0.0,
+Hospital Teluk Intan,Perak,532.0,58.83458646616542,16.0,31.25,39.0,25.64102564102564
+Hospital Gerik,Perak,75.0,48.0,0.0,,0.0,
+Hospital Parit Buntar,Perak,100.0,47.0,0.0,,0.0,
+Hospital  Raja Permaisuri Bainun,Perak,1064.0,75.18796992481202,33.0,69.6969696969697,86.0,66.27906976744185
+Hospital Batu Gajah,Perak,148.0,43.24324324324324,0.0,,0.0,
+Hospital Bahagia Ulu Kinta,Perak,1800.0,56.333333333333336,0.0,,0.0,
+Hospital Kuala Kangsar,Perak,136.0,64.70588235294117,0.0,,0.0,
+Hospital Sungai Siput,Perak,93.0,49.46236559139785,0.0,,0.0,
+Hospital Selama,Perak,72.0,33.33333333333333,0.0,,0.0,
+Hospital Taiping,Perak,583.0,85.93481989708405,25.0,84.0,45.0,84.44444444444444
+Hospital Seri Manjung,Perak,297.0,100.0,8.0,62.5,19.0,26.31578947368421
+Hospital Changkat Melintang,Perak,,,,,,
+Hospital Kampar,Perak,68.0,66.17647058823529,0.0,,0.0,
+Hospital Tuanku Fauziah,Perlis,491.0,83.70672097759673,13.0,84.61538461538461,29.0,24.137931034482758
+Hospital Selayang,Selangor,1023.0,73.11827956989248,29.0,62.06896551724138,100.0,22.0
+Hospital Sungai Buloh,Selangor,729.0,64.33470507544583,42.0,73.80952380952381,121.0,34.710743801652896
+Pusat Kawalan Kusta Negara,Selangor,244.0,40.98360655737705,0.0,,0.0,
 Hospital Orang Asli Gombak,Selangor,,,,,,
-Hospital Kajang,Selangor,378.0,87.3015873015873,8.0,62.5,32.0,18.75
-Hospital Ampang,Selangor,675.0,74.81481481481481,16.0,68.75,64.0,42.1875
-Hospital Kuala Kubu Bharu,Selangor,120.0,30.833333333333336,0.0,,0.0,
-Hospital Tengku Ampuan Rahimah,Selangor,1229.0,83.97070789259561,32.0,112.5,90.0,21.11111111111111
+Hospital Kajang,Selangor,378.0,85.71428571428571,8.0,50.0,32.0,18.75
+Hospital Ampang,Selangor,676.0,76.03550295857988,15.0,73.33333333333333,74.0,37.83783783783784
+Hospital Kuala Kubu Bharu,Selangor,120.0,33.33333333333333,0.0,,0.0,
+Hospital Tengku Ampuan Rahimah,Selangor,1229.0,88.52725793327909,32.0,109.375,90.0,21.11111111111111
 Hospital Banting,Selangor,,,,,,
 Hospital Shah Alam,Selangor,,,,,,
-Hospital Serdang,Selangor,814.0,91.27764127764128,20.0,25.0,72.0,19.444444444444446
-Hospital Besut,Terengganu,140.0,90.71428571428571,0.0,,0.0,
-Hospital Dungun,Terengganu,100.0,72.0,0.0,,0.0,
-Hospital Hulu Terengganu,Terengganu,124.0,52.41935483870967,0.0,,0.0,
-Hospital Kemaman,Terengganu,146.0,100.68493150684932,7.0,57.14285714285714,18.0,27.77777777777778
-Hospital Sultanah Nur Zahirah,Terengganu,1109.0,66.45626690712353,28.0,46.42857142857143,88.0,26.136363636363637
-Hospital Setiu,Terengganu,76.0,64.47368421052632,0.0,,0.0,
-Hospital Beaufort,Sabah,184.0,30.978260869565215,0.0,,0.0,
-Hospital Beluran,Sabah,52.0,38.46153846153847,0.0,,2.0,0.0
-Hospital Keningau,Sabah,187.0,113.90374331550801,29.0,55.172413793103445,20.0,25.0
-Hospital Kinabatangan,Sabah,68.0,38.23529411764706,0.0,,0.0,
-Hospital Kota Belud,Sabah,172.0,38.372093023255815,0.0,,0.0,
-Hospital Queen Elizabeth,Sabah,642.0,85.04672897196261,42.0,88.09523809523809,73.0,58.9041095890411
-Hospital Wanita Dan Kanak-Kanak,Sabah,629.0,78.85532591414945,13.0,53.84615384615385,13.0,15.384615384615385
-Hospital Mesra Bukit Padang,Sabah,260.0,60.38461538461538,0.0,,0.0,
-Hospital Queen Elizabeth II,Sabah,241.0,80.08298755186722,12.0,0.0,34.0,0.0
-Hospital Kota Marudu,Sabah,97.0,55.670103092783506,0.0,,0.0,
-Hospital Kuala Penyu,Sabah,48.0,62.5,0.0,,0.0,
-Hospital Kudat,Sabah,158.0,51.26582278481012,0.0,,0.0,
-Hospital Kunak,Sabah,48.0,37.5,0.0,,0.0,
-Hospital Lahad Datu,Sabah,262.0,69.46564885496184,6.0,66.66666666666666,19.0,36.84210526315789
-Hospital Papar,Sabah,77.0,61.038961038961034,0.0,,0.0,
-Hospital Pitas,Sabah,72.0,34.72222222222222,0.0,,0.0,
-Hospital Ranau,Sabah,110.0,54.54545454545454,0.0,,0.0,
-Hospital Duchess Of Kent,Sabah,378.0,78.04232804232805,22.0,54.54545454545454,34.0,52.94117647058824
-Hospital Semporna,Sabah,70.0,50.0,0.0,,0.0,
-Hospital Sipitang,Sabah,93.0,45.16129032258064,0.0,,0.0,
+Hospital Serdang,Selangor,814.0,95.2088452088452,20.0,25.0,72.0,23.61111111111111
+Hospital Besut,Terengganu,140.0,84.28571428571429,0.0,,0.0,
+Hospital Dungun,Terengganu,100.0,77.0,0.0,,0.0,
+Hospital Hulu Terengganu,Terengganu,124.0,55.64516129032258,0.0,,0.0,
+Hospital Kemaman,Terengganu,146.0,0.0,7.0,57.14285714285714,18.0,22.22222222222222
+Hospital Sultanah Nur Zahirah,Terengganu,1109.0,72.31740306582508,28.0,57.14285714285714,88.0,30.681818181818183
+Hospital Setiu,Terengganu,76.0,61.8421052631579,0.0,,0.0,
+Hospital Beaufort,Sabah,184.0,28.26086956521739,0.0,,0.0,
+Hospital Beluran,Sabah,52.0,44.230769230769226,0.0,,2.0,0.0
+Hospital Keningau,Sabah,187.0,121.92513368983957,29.0,62.06896551724138,20.0,35.0
+Hospital Kinabatangan,Sabah,68.0,44.11764705882353,0.0,,0.0,
+Hospital Kota Belud,Sabah,172.0,37.2093023255814,0.0,,0.0,
+Hospital Queen Elizabeth,Sabah,642.0,90.34267912772586,42.0,88.09523809523809,75.0,69.33333333333334
+Hospital Wanita Dan Kanak-Kanak,Sabah,629.0,76.94753577106518,13.0,53.84615384615385,13.0,7.6923076923076925
+Hospital Mesra Bukit Padang,Sabah,260.0,62.30769230769231,0.0,,0.0,
+Hospital Queen Elizabeth II,Sabah,241.0,82.98755186721992,12.0,0.0,34.0,0.0
+Hospital Kota Marudu,Sabah,97.0,47.42268041237113,0.0,,0.0,
+Hospital Kuala Penyu,Sabah,48.0,64.58333333333334,0.0,,0.0,
+Hospital Kudat,Sabah,158.0,46.20253164556962,0.0,,0.0,
+Hospital Kunak,Sabah,48.0,45.83333333333333,0.0,,0.0,
+Hospital Lahad Datu,Sabah,262.0,72.51908396946564,6.0,66.66666666666666,19.0,26.31578947368421
+Hospital Papar,Sabah,77.0,74.02597402597402,0.0,,0.0,
+Hospital Pitas,Sabah,72.0,38.88888888888889,0.0,,0.0,
+Hospital Ranau,Sabah,110.0,52.72727272727272,0.0,,0.0,
+Hospital Duchess Of Kent,Sabah,378.0,80.15873015873017,22.0,22.727272727272727,34.0,52.94117647058824
+Hospital Semporna,Sabah,70.0,52.85714285714286,0.0,,0.0,
+Hospital Sipitang,Sabah,93.0,51.61290322580645,0.0,,0.0,
 Hospital Tambunan,Sabah,49.0,44.89795918367347,0.0,,0.0,
-Hospital Tawau,Sabah,403.0,81.14143920595534,28.0,25.0,59.0,30.508474576271187
-Hospital Tenom,Sabah,63.0,28.57142857142857,0.0,,0.0,
-Hospital Tuaran,Sabah,88.0,63.63636363636363,0.0,,0.0,
-Hospital Bau,Sarawak,68.0,29.411764705882355,0.0,,0.0,
-Hospital Betong,Sarawak,48.0,62.5,0.0,,0.0,
-Hospital Bintulu,Sarawak,292.0,86.3013698630137,20.0,30.0,35.0,20.0
-Hospital Dalat,Sarawak,8.0,50.0,0.0,,0.0,
-Hospital Daro,Sarawak,46.0,4.3478260869565215,0.0,,2.0,0.0
-Hospital Kanowit,Sarawak,100.0,13.0,0.0,,0.0,
-Hospital Kapit,Sarawak,116.0,56.03448275862068,18.0,22.22222222222222,11.0,18.181818181818183
-Hospital Umum Sarawak,Sarawak,962.0,87.00623700623701,47.0,61.702127659574465,63.0,41.269841269841265
+Hospital Tawau,Sabah,403.0,85.8560794044665,28.0,21.428571428571427,59.0,30.508474576271187
+Hospital Tenom,Sabah,63.0,57.14285714285714,0.0,,0.0,
+Hospital Tuaran,Sabah,88.0,72.72727272727273,0.0,,0.0,
+Hospital Bau,Sarawak,68.0,39.705882352941174,0.0,,0.0,
+Hospital Betong,Sarawak,48.0,60.416666666666664,0.0,,0.0,
+Hospital Bintulu,Sarawak,292.0,86.98630136986301,20.0,55.00000000000001,35.0,17.142857142857142
+Hospital Dalat,Sarawak,8.0,62.5,0.0,,0.0,
+Hospital Daro,Sarawak,,,,,,
+Hospital Kanowit,Sarawak,100.0,18.0,0.0,,0.0,
+Hospital Kapit,Sarawak,116.0,49.137931034482754,18.0,22.22222222222222,11.0,18.181818181818183
+Hospital Umum Sarawak,Sarawak,962.0,90.54054054054053,47.0,61.702127659574465,63.0,41.269841269841265
 Hospital Rajah Charles Brooke Memorial,Sarawak,0.0,,0.0,,0.0,
-Hospital Sentosa,Sarawak,338.0,49.112426035502956,0.0,,0.0,
-Hospital Lawas,Sarawak,46.0,39.130434782608695,0.0,,3.0,0.0
-Hospital Limbang,Sarawak,96.0,33.33333333333333,4.0,0.0,4.0,0.0
+Hospital Sentosa,Sarawak,338.0,48.81656804733728,0.0,,0.0,
+Hospital Lawas,Sarawak,46.0,47.82608695652174,0.0,,3.0,0.0
+Hospital Limbang,Sarawak,96.0,35.41666666666667,4.0,0.0,4.0,0.0
 Hospital Lundu,Sarawak,46.0,32.608695652173914,0.0,,0.0,
-Hospital Marudi,Sarawak,54.0,18.51851851851852,0.0,,0.0,
-Hospital Miri,Sarawak,329.0,85.1063829787234,20.0,50.0,36.0,61.111111111111114
-Hospital Mukah,Sarawak,80.0,18.75,0.0,,0.0,
-Pusat Jantung Sarawak,Sarawak,119.0,73.94957983193278,9.0,0.0,14.0,0.0
-Hospital Saratok,Sarawak,80.0,18.75,0.0,,0.0,
-Hospital Sarikei,Sarawak,200.0,69.0,12.0,41.66666666666667,19.0,21.052631578947366
-Hospital Serian,Sarawak,84.0,65.47619047619048,0.0,,0.0,
-Hospital Sibu,Sarawak,639.0,61.815336463223794,23.0,86.95652173913044,59.0,45.76271186440678
+Hospital Marudi,Sarawak,54.0,20.37037037037037,0.0,,0.0,
+Hospital Miri,Sarawak,329.0,89.36170212765957,20.0,50.0,36.0,61.111111111111114
+Hospital Mukah,Sarawak,80.0,27.500000000000004,0.0,,0.0,
+Pusat Jantung Sarawak,Sarawak,119.0,78.99159663865547,9.0,0.0,14.0,0.0
+Hospital Saratok,Sarawak,80.0,17.5,0.0,,0.0,
+Hospital Sarikei,Sarawak,200.0,75.0,12.0,8.333333333333332,18.0,27.77777777777778
+Hospital Serian,Sarawak,84.0,64.28571428571429,0.0,,0.0,
+Hospital Sibu,Sarawak,639.0,65.57120500782473,23.0,82.6086956521739,59.0,40.67796610169492
 Hospital Simunjan,Sarawak,30.0,56.666666666666664,0.0,,0.0,
-Hospital Sri Aman,Sarawak,146.0,61.64383561643836,4.0,0.0,4.0,75.0
-Hospital Kuala Lumpur,W.P. Kuala Lumpur,1567.0,67.77281429483088,34.0,100.0,92.0,23.91304347826087
-Institut Perubatan Respiratori,W.P. Kuala Lumpur,,,,,,
+Hospital Sri Aman,Sarawak,146.0,54.109589041095894,4.0,0.0,4.0,75.0
+Hospital Kuala Lumpur,W.P. Kuala Lumpur,1567.0,1.0210593490746651,34.0,85.29411764705883,92.0,22.82608695652174
+Institut Perubatan Respiratori,W.P. Kuala Lumpur,118.0,62.71186440677966,0.0,,0.0,
 Hospital Rehabilitasi Cheras,W.P. Kuala Lumpur,,,,,,
-Hospital Tunku Azizah,W.P. Kuala Lumpur,547.0,102.55941499085924,5.0,40.0,12.0,0.0
-Hospital Labuan,W.P. Labuan,132.0,54.54545454545454,7.0,14.285714285714285,34.0,2.941176470588235
-Hospital Putrajaya,W.P. Putrajaya,371.0,80.05390835579514,14.0,50.0,37.0,13.513513513513514
-Institut Kanser Negara,W.P. Putrajaya,220.0,67.72727272727272,4.0,0.0,8.0,0.0
-Hospital Universiti Sains Malaysia,Kelantan,724.0,65.60773480662984,87.0,57.47126436781609,83.0,49.39759036144578
-Hospital Universiti Kebangsaan Malaysia,W.P. Kuala Lumpur,625.0,59.84,24.0,0.0,50.0,0.0
-Pusat Perubatan Universiti Malaya,W.P. Kuala Lumpur,1054.0,0.0,23.0,0.0,62.0,0.0
+Hospital Tunku Azizah,W.P. Kuala Lumpur,547.0,106.39853747714807,5.0,20.0,12.0,8.333333333333332
+Hospital Labuan,W.P. Labuan,132.0,53.78787878787878,7.0,28.57142857142857,34.0,5.88235294117647
+Hospital Putrajaya,W.P. Putrajaya,371.0,91.10512129380054,14.0,64.28571428571429,37.0,13.513513513513514
+Institut Kanser Negara,W.P. Putrajaya,220.0,67.72727272727272,4.0,0.0,8.0,12.5
+Hospital Universiti Sains Malaysia,Kelantan,724.0,70.44198895027624,87.0,60.91954022988506,83.0,50.602409638554214
+Hospital Universiti Kebangsaan Malaysia,W.P. Kuala Lumpur,625.0,65.75999999999999,24.0,0.0,50.0,0.0
+Pusat Perubatan Universiti Malaya,W.P. Kuala Lumpur,,,,,,
