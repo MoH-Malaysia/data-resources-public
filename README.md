@@ -24,8 +24,9 @@ preprocessing. These resources support the dashboards and analyses published on
 ## `facilities_master.csv`
 
 Registry of **5,160** public facilities across all states and federal
-territories in Malaysia. All records are currently active (`STATUS = BUKA`) and
-carry full geocoordinates. Column names are retained in Bahasa Malaysia.
+territories in Malaysia, **as registered on 31 December 2025**. All records are
+currently active (`STATUS = BUKA`) and carry full geocoordinates. Column names
+are retained in Bahasa Malaysia.
 
 | Column | Description |
 |--------|-------------|
