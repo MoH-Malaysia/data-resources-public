@@ -1,14 +1,13 @@
-# Malaysia Health Facilities & Bed Utilisation — Public Data Resources
+# Data Resources (Public)
 
-Open reference datasets on **Ministry of Health Malaysia (KKM)** healthcare
-facilities and hospital bed / ICU / ventilator utilisation. Published as plain
-CSV so they can be loaded directly into pandas, R, spreadsheets, GIS tools, or
-any BI dashboard without preprocessing.
+Reference datasets published by the **Ministry of Health Malaysia**
+(Kementerian Kesihatan Malaysia, KKM) covering public healthcare facilities and
+hospital bed, ICU and ventilator utilisation.
 
-> **Disclaimer:** This is a personal, public data resource. It is **not** an
-> official KKM data release. Field names are retained in their original
-> Bahasa Malaysia form for traceability to source. Verify against official
-> sources before operational or clinical use.
+Data is distributed as plain, UTF-8 encoded CSV so it can be loaded directly
+into pandas, R, spreadsheets, GIS software, or any BI tool without
+preprocessing. These resources support the dashboards and analyses published on
+[KKMNOW](https://data.moh.gov.my).
 
 ---
 
@@ -16,7 +15,7 @@ any BI dashboard without preprocessing.
 
 | File | Rows | Grain | Description |
 |------|-----:|-------|-------------|
-| [`facilities_master.csv`](facilities_master.csv) | 5,472 | One facility | Master registry of public health facilities (hospitals, clinics, dental clinics, health offices, labs) with address and geocoordinates. |
+| [`facilities_master.csv`](facilities_master.csv) | 5,472 | One facility | Master registry of public health facilities (hospitals, clinics, dental clinics, health offices, laboratories) with address and geocoordinates. |
 | [`bedutil_facility.csv`](bedutil_facility.csv) | 149 | One hospital | Bed, ICU and ventilator capacity and utilisation per hospital. |
 | [`bedutil_state.csv`](bedutil_state.csv) | 17 | One state (+ Malaysia total) | State-level aggregate of the same bed / ICU / ventilator metrics. |
 
@@ -24,9 +23,9 @@ any BI dashboard without preprocessing.
 
 ## `facilities_master.csv`
 
-Registry of **5,472** facilities across all **16 states and federal
-territories**. Of these, **5,166** are active (`STATUS = BUKA`) and carry full
-geocoordinates.
+Registry of **5,472** public facilities across all **16 states and federal
+territories**, of which **5,166** are currently active (`STATUS = BUKA`) and
+carry full geocoordinates. Column names are retained in Bahasa Malaysia.
 
 | Column | Description |
 |--------|-------------|
@@ -52,17 +51,17 @@ geocoordinates.
 | `LONGITUD` | Longitude (WGS84, decimal degrees). |
 
 **Facility mix:** ~2,915 clinics · ~1,684 dental clinics · ~166 hospitals ·
-~155 health offices · plus labs, health-promotion centres and others.
+~155 health offices · plus laboratories, health-promotion centres and others.
 
 ## `bedutil_facility.csv` / `bedutil_state.csv`
 
-Bed and critical-care capacity and utilisation. `bedutil_facility.csv` is per
-hospital; `bedutil_state.csv` is the same metrics aggregated by state, with a
-`Malaysia` grand-total row.
+Bed and critical-care capacity and utilisation. `bedutil_facility.csv` is
+reported per hospital; `bedutil_state.csv` aggregates the same metrics by state,
+with a `Malaysia` grand-total row.
 
 | Column | Description |
 |--------|-------------|
-| `hospital` / `state` | Facility name (facility file) or state (state file). |
+| `hospital` / `state` | Hospital name (facility file) or state (state file). |
 | `beds_nonicu` | Non-ICU bed count. |
 | `util_nonicu` | Non-ICU bed utilisation (%). |
 | `beds_icu` | ICU bed count. |
@@ -88,7 +87,7 @@ selangor = facilities[
     & (facilities["STATUS"] == "BUKA")
 ]
 
-# Join hospital bed utilisation
+# Hospital-level bed utilisation
 beds = pd.read_csv("bedutil_facility.csv")
 ```
 
@@ -99,14 +98,21 @@ beds       <- read.csv("bedutil_facility.csv")
 
 **Notes**
 - Files are UTF-8, comma-delimited, with a header row.
-- Text fields (names, addresses) may be quoted and can contain embedded
-  commas or line breaks — use a proper CSV parser rather than naive splitting.
+- Text fields (names, addresses) may be quoted and can contain embedded commas
+  or line breaks — use a proper CSV parser rather than naive string splitting.
 - Coordinates are WGS84 decimal degrees, suitable for direct plotting.
 
 ---
 
-## License
+## Contributing
 
-Released for public reference and educational use. Attribution appreciated.
-Source data derives from publicly available Ministry of Health Malaysia
-information.
+Corrections and updates are welcome. Please open an issue or submit a pull
+request describing the change and its source. Keep column names, encoding and
+file structure consistent with the existing datasets.
+
+## Attribution & Licence
+
+Source: **Ministry of Health Malaysia (Kementerian Kesihatan Malaysia)**.
+Use of this data is subject to the terms of this repository and applicable
+Government of Malaysia open data policies. Please attribute the Ministry of
+Health Malaysia when reusing these datasets.
