@@ -15,7 +15,7 @@ preprocessing. These resources support the dashboards and analyses published on
 
 | File | Rows | Grain | Description |
 |------|-----:|-------|-------------|
-| [`facilities_master.csv`](facilities_master.csv) | 5,472 | One facility | Master registry of public health facilities (hospitals, clinics, dental clinics, health offices, laboratories) with address and geocoordinates. |
+| [`facilities_master.csv`](facilities_master.csv) | 5,160 | One facility | Master registry of public health facilities (hospitals, clinics, dental clinics, health offices, laboratories) with address and geocoordinates. |
 | [`bedutil_facility.csv`](bedutil_facility.csv) | 149 | One hospital | Bed, ICU and ventilator capacity and utilisation per hospital. |
 | [`bedutil_state.csv`](bedutil_state.csv) | 17 | One state (+ Malaysia total) | State-level aggregate of the same bed / ICU / ventilator metrics. |
 
@@ -23,8 +23,8 @@ preprocessing. These resources support the dashboards and analyses published on
 
 ## `facilities_master.csv`
 
-Registry of **5,472** public facilities across all **16 states and federal
-territories**, of which **5,166** are currently active (`STATUS = BUKA`) and
+Registry of **5,160** public facilities across all states and federal
+territories in Malaysia. All records are currently active (`STATUS = BUKA`) and
 carry full geocoordinates. Column names are retained in Bahasa Malaysia.
 
 | Column | Description |
@@ -39,7 +39,7 @@ carry full geocoordinates. Column names are retained in Bahasa Malaysia.
 | `DAERAH` | District. |
 | `KATEGORI_FASILITI` | Facility category (`KLINIK`, `KLINIK PERGIGIAN`, `HOSPITAL`, `PEJABAT KESIHATAN`, `MAKMAL`, …). |
 | `JENIS_FASILITI` | Facility type / sub-type. |
-| `NAMA_FASILITI` | Facility name. |
+| `NAMA` | Facility name. |
 | `ALAMAT` | Street address. |
 | `BANDAR` | Town / city. |
 | `POSKOD` | Postcode. |
@@ -50,8 +50,9 @@ carry full geocoordinates. Column names are retained in Bahasa Malaysia.
 | `LATITUD` | Latitude (WGS84, decimal degrees). |
 | `LONGITUD` | Longitude (WGS84, decimal degrees). |
 
-**Facility mix:** ~2,915 clinics · ~1,684 dental clinics · ~166 hospitals ·
-~155 health offices · plus laboratories, health-promotion centres and others.
+**Facility mix:** ~2,915 clinics · ~1,682 dental clinics · ~166 hospitals ·
+~155 health offices · ~107 dental health offices · plus laboratories,
+health-promotion centres, state health departments and others.
 
 ## `bedutil_facility.csv` / `bedutil_state.csv`
 
